@@ -1,0 +1,1 @@
+Coloque aqui as fotos reais do Instagram (.jpg/.png) e referencie em css/styles.css
